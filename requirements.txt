@@ -1,0 +1,4 @@
+torch
+torchvision
+comfy-cli
+huggingface_hub
